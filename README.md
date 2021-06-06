@@ -6,15 +6,14 @@ a client side. There are multiple functionalities implemented like ADD PRODUCT ,
 DELETE REVIEW , SHOW TOP PRODUCTS , DISPLAY PROJUCT e.t.c
 
 **Setting up the repository**
+
 Make sure you have installed the ASP.NET in your system.
 
-Pre-requisites
+**Pre-requisites**
 
 Visual Studio or any editor supporting ASP.NET
 
-Steps
+**Steps**
 
-Create .env using .env_example as a template
-Run composer install
-Run vagrant up from your Homestead directory
+Open the project file with the Visual Studio 
 
