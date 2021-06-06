@@ -5,3 +5,16 @@ This is an E-commerce Website build in ASP.NET MVC Framework using Microsoft SQL
 a client side. There are multiple functionalities implemented like ADD PRODUCT , GIVE REVIEW , LOGIN , LOGOUT , DELETE PRODUCT ,
 DELETE REVIEW , SHOW TOP PRODUCTS , DISPLAY PROJUCT e.t.c
 
+**Setting up the repository**
+Make sure you have installed the ASP.NET in your system.
+
+Pre-requisites
+
+Visual Studio or any editor supporting ASP.NET
+
+Steps
+
+Create .env using .env_example as a template
+Run composer install
+Run vagrant up from your Homestead directory
+
